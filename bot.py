@@ -4,11 +4,11 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 from telegram.error import BadRequest
 
 # ===== إعدادات البوت =====
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8388967054:AAG0zsdXGrsjTXDTZ37OcjdMGbJc7UWlRfM"
 bot = Bot(token=TOKEN)
 
 # ===== معلومات القناة =====
-CHANNEL_USERNAME = "@YourChannel"
+CHANNEL_USERNAME = "@qd3QD"
 
 # ===== ملف المستخدمين =====
 USERS_FILE = "users.json"
