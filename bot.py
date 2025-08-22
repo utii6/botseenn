@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 
 # ---- إعدادات البوت ----
 BOT_TOKEN = "8388967054:AAG0zsdXGrsjTXDTZ37OcjdMGbJc7UWlRfM"
-API_KEY = "5be3e6f7ef37395377151dba9cdbd552"
+API_KEY = "81db6d6480686d9da6f35ff2cf6a30b4"
 ADMIN_ID = 5581457665
 SERVICE_ID = 14527
 
