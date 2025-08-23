@@ -7,11 +7,11 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 with open("config.json", "r") as f:
     config = json.load(f)
 
-BOT_TOKEN = config["bot_token"]
-API_KEY = config["api_key"]
-ADMIN_ID = config["admin_id"]
-DEFAULT_CHANNEL = config["default_channel"]
-DEFAULT_VIEWS = config["default_views"]
+BOT_TOKEN = config["8388967054:AAG0zsdXGrsjTXDTZ37OcjdMGbJc7UWlRfM"]
+API_KEY = config["81db6d6480686d9da6f35ff2cf6a30b4"]
+ADMIN_ID = config["5581457665"]
+DEFAULT_CHANNEL = config["@qd3qd"]
+DEFAULT_VIEWS = config["600"]
 
 # -------------------------
 # TELEGRAM BOT PART
